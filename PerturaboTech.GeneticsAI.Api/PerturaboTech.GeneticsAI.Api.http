@@ -1,0 +1,6 @@
+@PerturaboTech.GeneticsAI.Api_HostAddress = http://localhost:5177
+
+GET {{PerturaboTech.GeneticsAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
