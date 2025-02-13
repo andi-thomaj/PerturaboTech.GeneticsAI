@@ -1,15 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerturaboTech.GeneticsAI.Api", "PerturaboTech.GeneticsAI.Api\PerturaboTech.GeneticsAI.Api.csproj", "{8B80E682-B543-4395-B64E-0F7404644CB1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerturaboTech.GeneticsAI.Infrastructure", "PerturaboTech.GeneticsAI.Infrastructure\PerturaboTech.GeneticsAI.Infrastructure.csproj", "{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerturaboTech.Genetics.Domain", "PerturaboTech.Genetics.Domain\PerturaboTech.Genetics.Domain.csproj", "{41E83D9F-9B0B-47E2-850B-870120373AB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,22 +17,12 @@ Global
 		{8B80E682-B543-4395-B64E-0F7404644CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B80E682-B543-4395-B64E-0F7404644CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B80E682-B543-4395-B64E-0F7404644CB1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779}.Release|Any CPU.Build.0 = Release|Any CPU
-		{41E83D9F-9B0B-47E2-850B-870120373AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41E83D9F-9B0B-47E2-850B-870120373AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41E83D9F-9B0B-47E2-850B-870120373AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41E83D9F-9B0B-47E2-850B-870120373AB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8B80E682-B543-4395-B64E-0F7404644CB1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{D3DEC1D1-E2AE-4764-AD3E-66944BBEE779} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{41E83D9F-9B0B-47E2-850B-870120373AB5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2EDCA5B1-B96B-4C15-B93A-3C4B719FC152}
